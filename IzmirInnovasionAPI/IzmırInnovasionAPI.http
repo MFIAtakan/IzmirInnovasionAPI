@@ -1,0 +1,6 @@
+@IzmırInnovasionCase_HostAddress = http://localhost:5043
+
+GET {{IzmırInnovasionCase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
